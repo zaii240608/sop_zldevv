@@ -1,4 +1,3 @@
-/* Efek Glassmorphism Khas Kartun Lembut */
 .glass-panel {
     background: rgba(255, 255, 255, 0.55);
     backdrop-filter: blur(14px);
@@ -7,7 +6,6 @@
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 }
 
-/* State awal elemen sebelum dianimasikan oleh GSAP */
 .hero-header, .sop-card {
     opacity: 0;
     visibility: hidden;
